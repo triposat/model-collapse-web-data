@@ -9,7 +9,7 @@ This folder holds the code and the results for the tests in the Apify blog artic
 - `run_seeds.sh` holds the exact settings for seeds 1 and 2. Seed 0 used the same settings.
 - `pilot_results.json` (seed 0), `seed1/`, and `seed2/` hold the per-round results and the logs.
 - `summarize_for_article.py` prints every number that the article states. `summary_3seeds.json` is its output. This includes the rare words, which are the words that appear at most twice in the round-0 training data, the run time per seed, and the per-round trends of the two perplexity scores.
-- `aggregate_seeds.py` draws the perplexity chart in `../images/model-collapse-perplexity.png`.
+- `aggregate_seeds.py` draws the article's perplexity chart, and `aggregate_3seeds.json` holds its numbers. Give it the output path as an argument.
 
 The script needs `torch` and `transformers`. It ran on a 16 GB Apple M3 laptop, with `PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.5` and `PYTORCH_MPS_LOW_WATERMARK_RATIO=0.4`.
 
@@ -25,7 +25,7 @@ The scripts are in `dates/`:
 - `time_cdx.py` times `last_capture()` from `baseline.py` on 12 pages. `cdx_timing_output.txt` is our run.
 - `moved_page.py` checks the old and the current URL of a GeeksforGeeks tutorial that moved. `moved_page_output.txt` is our run.
 
-`plot_dates.py` draws `../images/publish-vs-edit-dates.png`.
+`plot_dates.py` draws the article's chart of claimed last-edit dates. Give it the output path as an argument.
 
 ## Overlap between the versions of a page
 
