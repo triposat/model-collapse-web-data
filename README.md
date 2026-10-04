@@ -2,7 +2,7 @@
 
 Code and results for the test in the Apify blog article "Model collapse: why AI models degrade and how to prevent it". You don't need this repository to follow the article. It's here so that you can check the test's numbers, or run the test yourself.
 
-The test is a small version of the recursive-training setup from Shumailov et al. (Nature, 2024). GPT-2 small learns from its own output for 4 rounds, with 4 mixes of model output and real text. The real text is 478 Wikipedia featured articles that Website Content Crawler collected.
+The test is a small version of the recursive-training setup from Shumailov et al. (Nature, 2024). GPT-2 small learns from its own output for 4 rounds, with 4 mixes of model output and real text. Website Content Crawler collected 480 Wikipedia featured articles, and the test used the 478 that kept more than 2,000 characters after its own text preparation.
 
 ## Files
 
