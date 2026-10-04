@@ -1,3 +1,4 @@
+wcc_wiki_items.json
 *.jsonl
 .venv/
 .env

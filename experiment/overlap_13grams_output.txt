@@ -1,2 +1,0 @@
-https://en.wikipedia.org/wiki/Laika: 53% of the archive row's 13-word sequences are also in the live row
-https://en.wikipedia.org/wiki/Sourdough: 56% of the archive row's 13-word sequences are also in the live row
