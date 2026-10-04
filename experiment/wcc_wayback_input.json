@@ -1,0 +1,15 @@
+{
+  "startUrls": [
+    {"url": "https://web.archive.org/web/20210615000000id_/https://en.wikipedia.org/wiki/Laika"},
+    {"url": "https://web.archive.org/web/20211115000000id_/https://www.bbc.com/news/technology"},
+    {"url": "https://web.archive.org/web/20210901000000id_/https://css-tricks.com/"},
+    {"url": "https://web.archive.org/web/20220301000000id_/https://docs.python.org/3/tutorial/index.html"},
+    {"url": "https://en.wikipedia.org/wiki/Laika"}
+  ],
+  "crawlerType": "cheerio",
+  "maxCrawlDepth": 0,
+  "htmlTransformer": "readableText",
+  "saveMarkdown": true,
+  "maxConcurrency": 3,
+  "proxyConfiguration": {"useApifyProxy": true}
+}

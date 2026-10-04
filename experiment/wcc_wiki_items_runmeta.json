@@ -1,0 +1,37 @@
+{
+ "id": "6lnodRF0vZvtAW2nA",
+ "status": "SUCCEEDED",
+ "startedAt": "2026-09-30T00:36:40.034Z",
+ "finishedAt": "2026-09-30T00:39:50.446Z",
+ "usageTotalUsd": 0.08883071047215661,
+ "stats": {
+  "inputBodyLen": 30176,
+  "migrationCount": 0,
+  "rebootCount": 0,
+  "restartCount": 0,
+  "durationMillis": 190074,
+  "resurrectCount": 0,
+  "runTimeSecs": 190.074,
+  "metamorph": 0,
+  "computeUnits": 0.4223866666666667,
+  "memAvgBytes": 3401905265.8379474,
+  "memMaxBytes": 5377814528,
+  "memCurrentBytes": 0,
+  "cpuAvgUsage": 103.65383921642892,
+  "cpuMaxUsage": 436.88871989860587,
+  "cpuCurrentUsage": 0,
+  "netRxBytes": 51169189,
+  "netTxBytes": 12306574
+ },
+ "options": {
+  "build": "version-0",
+  "timeoutSecs": 360000,
+  "memoryMbytes": 8192,
+  "restartOnError": true,
+  "isMaxTotalChargeUsdSetByUser": false,
+  "diskMbytes": 16384
+ },
+ "defaultDatasetId": "OhQ9EnMTGUogXXGv0",
+ "chargedEventCounts": null,
+ "pricingInfo": null
+}

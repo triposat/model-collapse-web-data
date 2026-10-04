@@ -1,0 +1,12 @@
+{
+  "startUrls": [
+    {"url": "https://web.archive.org/web/20210615000000id_/https://en.wikipedia.org/wiki/Laika"},
+    {"url": "https://en.wikipedia.org/wiki/Laika"}
+  ],
+  "crawlerType": "cheerio",
+  "maxCrawlDepth": 0,
+  "htmlTransformer": "readableText",
+  "saveMarkdown": true,
+  "ignoreCanonicalUrl": true,
+  "proxyConfiguration": {"useApifyProxy": true}
+}
