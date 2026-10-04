@@ -19,6 +19,8 @@ The test is a small version of the recursive-training setup from Shumailov et al
 python summarize_for_article.py seed0/results.json seed1/results.json seed2/results.json
 ```
 
+The output is JSON. Each value is a list of the mean, the minimum, and the maximum across the 3 seeds. Values that start with `chg_` are changes since round 0 as fractions, so `0.52` means 52% higher. For example, `replace.chg_test_ppl` is the 52% perplexity rise with 100% model output.
+
 ## Run the test yourself
 
 ```bash
@@ -27,8 +29,11 @@ pip install torch transformers requests matplotlib
 export APIFY_TOKEN="your-apify-token"
 python apify_run.py apify/website-content-crawler wcc_input.json wcc_wiki_items.json
 ./run_seeds.sh
-python aggregate_seeds.py seed0/results.json seed1/results.json seed2/results.json chart.png
+python summarize_for_article.py rerun/seed0/results.json rerun/seed1/results.json rerun/seed2/results.json
+python aggregate_seeds.py rerun/seed0/results.json rerun/seed1/results.json rerun/seed2/results.json chart.png
 ```
+
+`run_seeds.sh` writes to `rerun/`, so you can compare your numbers with the published results in `seed0/` to `seed2/`.
 
 Each seed took about an hour on a 16 GB Apple M3 laptop. `collapse_exp.py` uses Apple's MPS by default, so add `--device cuda` or `--device cpu` in `run_seeds.sh` on other hardware. The crawl downloads the current version of each article, so a new run gives slightly different numbers.
 

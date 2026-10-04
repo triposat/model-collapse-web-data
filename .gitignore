@@ -4,3 +4,4 @@ wcc_wiki_items.json
 .env
 __pycache__/
 .DS_Store
+rerun/
