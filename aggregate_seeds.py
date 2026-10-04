@@ -19,8 +19,8 @@ for f in files:
 
 MIXES = [("replace", "100% model output", "#2a78d6"),
          ("orig10", "90% output + 10% original real data", "#eb6834"),
-         ("fresh10", "90% output + 10% new real text", "#1baf7a"),
-         ("fresh50", "50% output + 50% new real text", "#eda100")]
+         ("fresh10", "90% output + 10% new real data", "#1baf7a"),
+         ("fresh50", "50% output + 50% new real data", "#eda100")]
 KEYS = ["test_ppl", "gen_vocab", "rep4_share", "distinct2", "rare_words_kept", "gen_ppl_under_gen0"]
 
 
