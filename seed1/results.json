@@ -1,0 +1,410 @@
+[
+ {
+  "regime": "all",
+  "gen": 0,
+  "test_ppl": 38.525,
+  "train_blocks": 500,
+  "secs": 238.7,
+  "gen_words": 24225,
+  "gen_vocab": 5271,
+  "distinct1": 0.2176,
+  "distinct2": 0.7348,
+  "rep4_share": 0.052,
+  "rare_words_kept": 0.3688,
+  "gen_ppl_under_gen0": 21.918,
+  "gen_ppl_p10_p50_p90": [
+   12.69,
+   22.43,
+   36.3
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Sea, Japan won in both wars the long-awaited second victory over the Pacific fleet. The squadron's fleet, now known as the Three Lucky Soldiers, became an integral part of the battleship's legacy.\nThe Three Lucky Soldiers were one of the fleet's most",
+   " a prominent lyric, it became available on 5 December 2013 on United Artists. (The song was later shifted to an electronic song titled 'Nobody Ever Chances' by the record label and added on 5 March 2014.) [12] The song was performed by artist Armin van Buuren and performed by Nirvana frontman Kurt Cob",
+   " unlocks the Silver Cup, a silver event. Players can try each cup on their own, or compete at independently.\nRacing regulations and rules differ in both events, and the Cup Series consists of 3 race stages; the event consists of 2.5 miles of action, with the race finishing on one of the 4"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 1,
+  "test_ppl": 42.785,
+  "train_blocks": 500,
+  "secs": 316.7,
+  "gen_words": 24704,
+  "gen_vocab": 4625,
+  "distinct1": 0.1872,
+  "distinct2": 0.6975,
+  "rep4_share": 0.072,
+  "rare_words_kept": 0.2899,
+  "gen_ppl_under_gen0": 17.549,
+  "gen_ppl_p10_p50_p90": [
+   11.3,
+   17.79,
+   26.93
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Strait of Juan de Fuca (1923\u201325), the battles of Guadalcanal and the invasion of Palawan served to demonstrate that the United States was prepared to use force in the South China Sea and its economic resources to counter the growing influence of the other",
+   " a power and high melody, the song's lead single peaked at #7 on the Billboard Hot 100, but in September 2022, it peaked at #17 on the Hot 100 for the first time. In January 2023, it was on the National Song Award for Best R&B & R&B Song, and",
+   " unlocks the Silver Cup, a silver medal for the rider who finishes in the top two, and the Bronze Cup.\nIn the Premier League, the stage is won by a team from the quarter-finals of a double-elimination knockout stage. This stage is the first time that a single team has qualified for"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 2,
+  "test_ppl": 47.214,
+  "train_blocks": 500,
+  "secs": 291.7,
+  "gen_words": 24669,
+  "gen_vocab": 4142,
+  "distinct1": 0.1679,
+  "distinct2": 0.6537,
+  "rep4_share": 0.116,
+  "rare_words_kept": 0.2467,
+  "gen_ppl_under_gen0": 14.046,
+  "gen_ppl_p10_p50_p90": [
+   9.25,
+   14.37,
+   20.99
+  ],
+  "probe_samples": [
+   " the earlier battles, the US Navy and Japanese Navy conducted several air and ground combat operations during the day, including naval patrols of Chinese shipping lanes and airfields. During the afternoon, and on 12 January 1943, American destroyers completed the first of six de-jettisoning operations, while destroyers and aircraft carrier",
+   " American-style guitar work and lyrics that could be heard on classical radio stations, \"Can I Get It\" began its public popularity in 2014 by making a series of singles, including the title track. In January 2017, the album was re-released on the band's official website and appeared in a number of videos and",
+   " unlocks the Silver Cup, a silver medal awarded for the most recent rally performance by a major grand tour event, and the Bronze Cup, the highest achievement in history, is considered the most prestigious trophy.\nContents show]\n\nOverview\n\nThe Silver Cup is a series of events that took place during the 1980s"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 3,
+  "test_ppl": 53.83,
+  "train_blocks": 500,
+  "secs": 220.6,
+  "gen_words": 24526,
+  "gen_vocab": 3677,
+  "distinct1": 0.1499,
+  "distinct2": 0.6006,
+  "rep4_share": 0.222,
+  "rare_words_kept": 0.2232,
+  "gen_ppl_under_gen0": 11.778,
+  "gen_ppl_p10_p50_p90": [
+   7.97,
+   12.04,
+   18.55
+  ],
+  "probe_samples": [
+   " the previous two battles, the Chinese and Japanese continued to exercise close and heavy combat contact during the day, although their fleets often encountered each other and did not attempt to attack each other until a relatively short window of time following the first of their attacks. Following the 11 November 1942 cease-fire in which the two sides agreed",
+   " a power ballad melody, \"I Want You Home\" is part of the song's single \"I Want You Back,\" a collaboration between Skrillex and Skrillex's label, Interscope. In addition to the single, five remixes of the song have been released, including remixes of \"",
+   " unlocks the Silver Cup, a silver medal awarded for the most recent race. The final round of the race is the final round in the race series, where both the drivers and team will face off. The race begins on the track, and the final two stages feature action, with the final stage on the left of the"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 4,
+  "test_ppl": 61.05,
+  "train_blocks": 500,
+  "secs": 222.2,
+  "gen_words": 24416,
+  "gen_vocab": 3223,
+  "distinct1": 0.132,
+  "distinct2": 0.5339,
+  "rep4_share": 0.364,
+  "rare_words_kept": 0.1826,
+  "gen_ppl_under_gen0": 10.574,
+  "gen_ppl_p10_p50_p90": [
+   6.85,
+   10.87,
+   16.43
+  ],
+  "probe_samples": [
+   " the Pacific, the Battle of the Santa Cruz Island, in which the Japanese controlled much of the southern half of the Pacific Ocean, served a major diplomatic and economic significance to the war effort. Following the attack on Pearl Harbor on July 6, 1942, the final stages of the Second World War were generally concluded on 8 December",
+   " a guitar solo, \"Playin' on the Street\" is featured on the album's single \"Upset,\" which debuted at number 1 on the Billboard 200 in January 2018. A studio version of \"I Want You Back\" was released on October 25, 2018, and on November 17, 2018, the single",
+   " unlocks the Silver Cup, a silver medal for the best race finish in a year.\nIn addition to completing all three cups, the player can pick up additional events, including the World Cup, the Olympic Games and the Vuelta a Espa\u00f1a. All three events are open to the public, though there are no"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 1,
+  "test_ppl": 42.13,
+  "train_blocks": 500,
+  "secs": 222.3,
+  "gen_words": 24650,
+  "gen_vocab": 4802,
+  "distinct1": 0.1948,
+  "distinct2": 0.7011,
+  "rep4_share": 0.108,
+  "rare_words_kept": 0.3054,
+  "gen_ppl_under_gen0": 18.374,
+  "gen_ppl_p10_p50_p90": [
+   11.02,
+   18.95,
+   29.19
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Sea of Japan, in which American ships lost at least 40 men, the Pacific fleet conducted a significant portion of the \"siege and occupation\" in late 1942, while Japanese units of both the Japanese Navy and Japanese Imperial Army had occupied many of the ports. As with",
+   " a prominent lyric, it became the song's leading single on the US Billboard Hot 100, with 17,000 streams on October 21, 2014. The song was nominated for 17 Grammy Awards, including Best Contemporary Song. In addition to the success of 30 (2021), 30 (2022), and 30 (2023",
+   " unlocks the Silver Cup, a silver medal for the distance race, and is named after the studio that produced the game. The final cup is determined by the final events of the season.\nThe winner of each championship is announced by the League of Legends staff and users during the open beta. Players may place multiple teams in"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 2,
+  "test_ppl": 45.496,
+  "train_blocks": 500,
+  "secs": 282.4,
+  "gen_words": 24398,
+  "gen_vocab": 4408,
+  "distinct1": 0.1807,
+  "distinct2": 0.672,
+  "rep4_share": 0.138,
+  "rare_words_kept": 0.2643,
+  "gen_ppl_under_gen0": 14.985,
+  "gen_ppl_p10_p50_p90": [
+   9.66,
+   15.01,
+   23.43
+  ],
+  "probe_samples": [
+   " the battles of the campaigns of the Pacific and the East India Company, the Battle of the Santa Cruz was the twentieth of five aircraft carrier battles of the Pacific campaign, with six of the battles being won by aircraft carriers. In July 1943, the Battle of Tinian was the first major naval battle of the Pacific campaign,",
+   " a power and high melody, the song's lead single peaked at number 5 on the Billboard Hot 100, but in September 2017, M\u00d8 debuted a live version of the song and received critical praise from several music fans. In November 2017, M\u00d8 signed with Columbia Music Group and signed a three-year deal",
+   " unlocks the Silver Cup, a silver medal for the best race finish, and is considered the most popular event of the championship.\nIn the 2006 Summer Olympics, Champion Duke and team from the United States led a group of participants to victory in the world's largest open field race, the Commonwealth Games in London. The winner"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 3,
+  "test_ppl": 49.073,
+  "train_blocks": 500,
+  "secs": 205.7,
+  "gen_words": 24429,
+  "gen_vocab": 3926,
+  "distinct1": 0.1607,
+  "distinct2": 0.6364,
+  "rep4_share": 0.206,
+  "rare_words_kept": 0.2349,
+  "gen_ppl_under_gen0": 13.239,
+  "gen_ppl_p10_p50_p90": [
+   8.14,
+   13.8,
+   20.57
+  ],
+  "probe_samples": [
+   " the previous two battles, the Chinese and Japanese held naval and air superiority in both countries, but the Chinese were unable to secure significant sea lanes and access to the East China Sea. The aircraft carriers were ordered to provide air cover during the battles, and their final operational role would be to support the US military. On 18",
+   " American-style arrangement, it received mixed reviews, particularly from critics. It gained critical acclaim for its songwriting, featuring performances from Miley Cyrus, Will Smith and Florence Welch, and received only three million copies. In January 2017, it was replaced with the song \"Thought Up\", which was nominated for an MTV",
+   " unlocks the Silver Cup, a silver medal for the best race finish.\nPlayers have the option to choose between two separate teams: One player can pick either Team Champion, and the other player can choose the race leaderboard. The winner of each team's championship is determined by the number of podium finishes they have finished,"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 4,
+  "test_ppl": 50.392,
+  "train_blocks": 500,
+  "secs": 210.1,
+  "gen_words": 24329,
+  "gen_vocab": 3677,
+  "distinct1": 0.1511,
+  "distinct2": 0.5926,
+  "rep4_share": 0.318,
+  "rare_words_kept": 0.2185,
+  "gen_ppl_under_gen0": 11.449,
+  "gen_ppl_p10_p50_p90": [
+   6.92,
+   11.98,
+   18.19
+  ],
+  "probe_samples": [
+   " the previous two battles, the battles of Guadalcanal and the Battle of American Samoa, respectively, were fought on strategic and economic terms, with the United States initially controlling the main islands while Japan sought to maintain control over many of the others. Following the victory of the United States and the establishment of the commission that",
+   " American-style arrangement, it featured lyrics by J. Cole and featured lyrics by Steve Novak, who later wrote the song's chorus. In March 2012, Columbia commissioned Kristin Lee Greenwood to create a songbook with lyrics by the artists, who later composed the song's chorus. During the campaign, Greenwood created lyrics",
+   " unlocks the Silver Cup, a silver medal for the Super Smash Bros. series.\nIn the stage at the top, players collect up to five gems in order to advance to the next stage of the tournament. On the second day, the player is awarded three different prizes, with the top prize being one of five,"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 1,
+  "test_ppl": 41.805,
+  "train_blocks": 500,
+  "secs": 224.8,
+  "gen_words": 24781,
+  "gen_vocab": 4817,
+  "distinct1": 0.1944,
+  "distinct2": 0.7005,
+  "rep4_share": 0.066,
+  "rare_words_kept": 0.2937,
+  "gen_ppl_under_gen0": 18.543,
+  "gen_ppl_p10_p50_p90": [
+   11.83,
+   18.95,
+   28.96
+  ],
+  "probe_samples": [
+   " the previous two battles, the squadron battle of the Santa Cruz was the carrier's only air attack. The second battle involved the Pacific fleet's last squadron, the Seventh Fleet, which had been completely out of range, while the first of the Suttengammer were forced to flee from the active service.\nDuring",
+   " a power and high melody, the song's lead single peaked at number one on the Billboard Hot 100, but in September 2022, it peaked at number two on the Hot 100 for the first time. In January 2023, it was on the National Song Award for Best R&B & R&B Song, and",
+   " unlocks the Silver Cup, a silver medal for the distance runner, and is named after the studio that produced Pok\u00e9mon.\nIn Pok\u00e9mon Red and Green, the final Champion is chosen by a six-member vote of a double-elimination voting panel. All four players play with the chance to win one of four prize"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 2,
+  "test_ppl": 44.747,
+  "train_blocks": 500,
+  "secs": 284.8,
+  "gen_words": 24660,
+  "gen_vocab": 4473,
+  "distinct1": 0.1814,
+  "distinct2": 0.6761,
+  "rep4_share": 0.11,
+  "rare_words_kept": 0.2667,
+  "gen_ppl_under_gen0": 15.954,
+  "gen_ppl_p10_p50_p90": [
+   10.12,
+   15.93,
+   24.18
+  ],
+  "probe_samples": [
+   " the battles of the campaigns of the Pacific and the Korean War, the carrier battle group included five destroyers and two anti-submarine destroyers. Following the design review, the carrier group underwent design review by the IAEA, the US Navy's high-level design development agency, and was designated the George Washington",
+   " a prominent featured verse, it is one of the few songs ever featured on the album, with lyrics that express both admiration and bitterness for the singer. During the New Year's Eve celebration on 17 March, Adele said she did not feel \"like a mother to children.\" In December 2008, Adele announced that she",
+   " unlocks the Silver Cup, a silver medal in both the Grand Prix and the Grand Prix series. The winner of each cup will then be the next champion in the Champion League and the Cup of the Year in a championship series.\nThough the official online ranking system is not perfect, the official online rules are significantly improved,"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 3,
+  "test_ppl": 48.257,
+  "train_blocks": 500,
+  "secs": 222.5,
+  "gen_words": 24604,
+  "gen_vocab": 4089,
+  "distinct1": 0.1662,
+  "distinct2": 0.6379,
+  "rep4_share": 0.176,
+  "rare_words_kept": 0.2376,
+  "gen_ppl_under_gen0": 13.492,
+  "gen_ppl_p10_p50_p90": [
+   8.82,
+   13.67,
+   21.38
+  ],
+  "probe_samples": [
+   " the previous two battles, the Chinese and Japanese fought at different time and in different locations during the day, during and after the Chinese and Japanese began their formal invasion of the Philippines. During the nine-day war, the two sides lost more than 500,000 ships, taking more than a quarter-mile (40 km",
+   " American-style guitar work, the song's lead single, \"Love Song,\" reached number one on the US Billboard 200. It was featured in the Billboard 200's Best Rap Album and featured on the cover of Rolling Stone magazine, the magazine's magazine of the same name, and on several artists' covers. On 17",
+   " unlocks the Silver Cup, a silver medal for the best race finish, and is considered the most popular race of the tournament. Following the final round, the final round of the tournament is the quarter-finals. Winners of the event, the US National Team and the European Champion, the Spanish Grand Prix are each invited to"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 4,
+  "test_ppl": 50.661,
+  "train_blocks": 500,
+  "secs": 231.7,
+  "gen_words": 24352,
+  "gen_vocab": 3730,
+  "distinct1": 0.1532,
+  "distinct2": 0.5945,
+  "rep4_share": 0.3,
+  "rare_words_kept": 0.2187,
+  "gen_ppl_under_gen0": 12.022,
+  "gen_ppl_p10_p50_p90": [
+   7.22,
+   12.85,
+   19.5
+  ],
+  "probe_samples": [
+   " the previous two battles, the Chinese and Japanese continued to exercise close and continuous combat, with the Americans capturing large portions of the Pacific Ocean. On 20 October, Admiral William F. Taft launched an attack on the Japanese with 200,000 merchant and aircraft men, with eight destroyers and three destroyers. On 1",
+   " American-style arrangement by Adele, \"Can I Get It\" debuted at No. 1 on the Billboard 200 in October 2017, with the track featuring the New York Times best-selling song, \"A Prairie Home Companion.\" The song's single \"Can I Get It\" was featured in the October 2018 issue of",
+   " unlocks the Silver Cup, a silver medal for the best race finish, and is considered the most rewarding event of the tournament. Following the final round, the final 25 players in the Cup race are awarded the Diamond Cup, a gold medal for the world's best appearance in a major championship race, and are considered to have"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 1,
+  "test_ppl": 39.994,
+  "train_blocks": 500,
+  "secs": 179.3,
+  "gen_words": 24286,
+  "gen_vocab": 5491,
+  "distinct1": 0.2261,
+  "distinct2": 0.7469,
+  "rep4_share": 0.036,
+  "rare_words_kept": 0.2985,
+  "gen_ppl_under_gen0": 24.116,
+  "gen_ppl_p10_p50_p90": [
+   14.09,
+   24.17,
+   42.62
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Strait of Juan de Fuca (1923\u201333), the battles of Pacific Ocean 12 and Pacific Ocean 13, respectively, served to demonstrate that the United States was prepared to engage Japan in an immediate conflict.\nThe cruisers HMS Constellation (1903\u201306",
+   " a prominent lyric, it became the song's leading single on the US Billboard Hot 100, with the song gaining 5.5 million market shares across the U.S. and Canada and 8 million song downloads in 24 hours. In the United States, it reached number one on the charts and reached number one on the Billboard",
+   " unlocks the Silver Cup, Silver Cup, Silver Cup Classic and Silver Cup Classic II.\nIn addition to class, players will have an additional experience system: Duelists will have the chance to gain points by race and skill sharing among players. Players can earn permanent appearance points, with the chance to win one of four Duel"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 2,
+  "test_ppl": 40.549,
+  "train_blocks": 500,
+  "secs": 247.5,
+  "gen_words": 24187,
+  "gen_vocab": 5461,
+  "distinct1": 0.2258,
+  "distinct2": 0.7486,
+  "rep4_share": 0.04,
+  "rare_words_kept": 0.2794,
+  "gen_ppl_under_gen0": 23.347,
+  "gen_ppl_p10_p50_p90": [
+   13.39,
+   23.97,
+   38.74
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Pacific, Japan won heavy losses at the Battle of Palmyra and Palmyra Sea, while Washington suffered five losses, including an amphibious assault on Pearl Harbor.\nA USO Carrier Bombardment Unit (DDBN-51A) was ordered to the Pacific Fleet",
+   " a prominent featured arrangement was recorded on 13 November, recorded on Martin's vocals, and later released on 20 November in a London electronic band called France Chorus.\nThe song's original title, inspired by Adele's own short story \"My Secret Heart\", was changed to \"Beautiful Love\". The album's lyrics",
+   " challenges requires Silver (gold) or Bronze (chimera) points; silver and bronze are not available at that level; and gold and platinum are only available for a single team. Players who complete the race on average have access to Silver Cup League tokens and Silver Cup House tokens. Players can trade one of these tokens"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 3,
+  "test_ppl": 40.689,
+  "train_blocks": 500,
+  "secs": 171.7,
+  "gen_words": 23920,
+  "gen_vocab": 5499,
+  "distinct1": 0.2299,
+  "distinct2": 0.7527,
+  "rep4_share": 0.066,
+  "rare_words_kept": 0.2763,
+  "gen_ppl_under_gen0": 23.462,
+  "gen_ppl_p10_p50_p90": [
+   13.07,
+   24.11,
+   38.35
+  ],
+  "probe_samples": [
+   " the Chatham-Habib battle of the Sea, Japan won heavy losses when the United States was forced to withdraw from Pacific Ocean waters and surrender at San Francisco on 17 November. Three of the four aircraft carriers damaged by American bombs in the Battle of Tinian were forced to flee to the Pacific by the Japanese,",
+   " a prominent featured verse, it features one of Adele's most memorable lyrics (which later appeared on 20 November in a song titled 'Nobody Can Get It').\nOn January 11, 2018, the single \"Mirrors\" was the first overall single to be featured in the Billboard 200's 40 Greatest Albums chart,",
+   " challenges reduces the available cups by 10 points. Players can try each cup on their own, or compete at any of several online events. Following the initial stage, players compete in team battles to gain points in race points; the top 4 players in the tournament are awarded four points each. Players must complete one of the four"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 4,
+  "test_ppl": 41.264,
+  "train_blocks": 500,
+  "secs": 181.3,
+  "gen_words": 24164,
+  "gen_vocab": 5321,
+  "distinct1": 0.2202,
+  "distinct2": 0.7427,
+  "rep4_share": 0.08,
+  "rare_words_kept": 0.2682,
+  "gen_ppl_under_gen0": 21.678,
+  "gen_ppl_p10_p50_p90": [
+   12.74,
+   22.32,
+   36.63
+  ],
+  "probe_samples": [
+   " the Chatham-Hastings battle of the Pacific campaign, the carrier battle group was heavily armed, highly equipped with strategic aircraft, ground-based anti-submarine weapons, and aircraft carriers. The six ships were led by the flagship, the Seventh Fleet, which cruised the north and east coasts. On 18",
+   " a prominent featured verse, it is one of the few songs ever featured on the album to be fully recorded by Adele. It is also the only song on the album to feature original guitar solos by Adele herself.\nThe song's lyrics focus on the children who are affected by HIV and particularly the young people",
+   " unlocks the Silver Cup, Silver Cup, Silver Cup Master and Diamond Cup. The final four are available at any time during the final weekend of the season: once for every five team battles, once for every five championship events.\nThe Silver Cup is the first appearance of the new Silver Cup alongside one of the Grand Prix"
+  ]
+ }
+]

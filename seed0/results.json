@@ -1,0 +1,410 @@
+[
+ {
+  "regime": "all",
+  "gen": 0,
+  "test_ppl": 38.903,
+  "train_blocks": 500,
+  "secs": 158.4,
+  "gen_words": 24307,
+  "gen_vocab": 5256,
+  "distinct1": 0.2162,
+  "distinct2": 0.7382,
+  "rep4_share": 0.046,
+  "rare_words_kept": 0.3799,
+  "gen_ppl_under_gen0": 22.597,
+  "gen_ppl_p10_p50_p90": [
+   12.43,
+   23.12,
+   37.21
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved toward Cuba before descending into the Eastern United States. The storm then improved to a power outage until it reached New Orleans on August 14, causing widespread damage, including widespread damage to homes and businesses. Like Hurricane Katrina, Cindy was accompanied by cyclone-like winds of 1 to 4 miles per hour",
+   " and octopuses. They are in the family Cabaunidae. Beavers make up the largest group of carnivores in the genus Agaves (Bison).\nThe genus Callistoidea is subdivided into subgroups that are distinct from their siblings, such as the black-and-white black band",
+   "20\u00a0in) guns. Each ship was armed with guns composed of a 70mm (0.54\u00a0in) hull and a full six\u00a0mm (3.25-inch) axial turret. The guns were set at a range of 18\u00a0m (20\u00a0ft) and were capable of firing up"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 1,
+  "test_ppl": 42.899,
+  "train_blocks": 500,
+  "secs": 163.0,
+  "gen_words": 24157,
+  "gen_vocab": 4731,
+  "distinct1": 0.1958,
+  "distinct2": 0.7031,
+  "rep4_share": 0.068,
+  "rare_words_kept": 0.2837,
+  "gen_ppl_under_gen0": 17.188,
+  "gen_ppl_p10_p50_p90": [
+   9.98,
+   17.63,
+   27.31
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved northeast to the Atlantic in mid-August, becoming the first storm to exceed 100 mph (200 km/h) in height. A short, powerful gust settled through the southeastern United States, forming a northeastward movement over North Carolina on September 4, becoming the fourth to hit the state. There",
+   ". Beavers were originally domesticated in the Americas and have lived in Europe, North America, Australia, and South America for hundreds of thousands of years.\nIn North America, the carnivores range in size from three to four hundred species, with a density estimated at 11\u201314 g (1,300\u2013",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The guns had a 30-watt steel hull and two four-wheel axle drive, and were mounted on an eight-ton (12\u00a0in) drum-shaped propeller, with an outer maximum of 500"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 2,
+  "test_ppl": 47.359,
+  "train_blocks": 500,
+  "secs": 157.0,
+  "gen_words": 24305,
+  "gen_vocab": 4114,
+  "distinct1": 0.1693,
+  "distinct2": 0.6547,
+  "rep4_share": 0.128,
+  "rare_words_kept": 0.2484,
+  "gen_ppl_under_gen0": 13.488,
+  "gen_ppl_p10_p50_p90": [
+   8.75,
+   13.65,
+   21.05
+  ],
+  "probe_samples": [
+   " Peninsula, and rapidly moved northeast to the Atlantic in mid-August, with winds reaching 75 miles per hour (102 km/h). The storm created a powerful, powerful hurricane surge, and was a Category 5 storm for the northeast United States, and led to widespread damage in Puerto Rico. The storm's powerful winds soon",
+   ". Beavers were originally domesticated in the Americas and have since been introduced to North America and Europe.\nRange and Habitat\nBella Beavers are found in more than 30 habitats, including coastal swamps, forests, streams, prairies, grasslands, and coastal marshes. Beavers appear to disperse",
+   "20\u00a0in) guns. A total of 18\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval science department of the US Navy commissioned two private and three\u00a0colonyally commissioned\u00a0assistant\u00a0servicemen to test the designs.\nThe guns were followed by an\u00a0assault\u00a0miss"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 3,
+  "test_ppl": 52.944,
+  "train_blocks": 500,
+  "secs": 166.5,
+  "gen_words": 24371,
+  "gen_vocab": 3612,
+  "distinct1": 0.1482,
+  "distinct2": 0.5976,
+  "rep4_share": 0.246,
+  "rare_words_kept": 0.216,
+  "gen_ppl_under_gen0": 11.451,
+  "gen_ppl_p10_p50_p90": [
+   7.57,
+   11.78,
+   17.58
+  ],
+  "probe_samples": [
+   " peninsula, and developed into a strong tropical storm system with strong winds in the mid-Atlantic. Cindy also developed from a severe storm system that sustained damage to most major shipping routes, including the South Atlantic. In the Gulf of Mexico, Cindy formed a powerful trough that formed a shallow, shallow channel that extended from the Gulf",
+   " and other birds. They have short wings, rounded heads, and are oval in appearance, similar to a plant with a rounded body. Beavers spend most of their time on land, as well as in flowers, grasses, and woodlands. They also fly, and birds have been documented to use their wings to",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The design staff began working on the six decks of the Puebla-Colombia and ordered a complete overhaul to make it a more formidable target against American and British attack. The Puebla was eventually assigned"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 4,
+  "test_ppl": 59.374,
+  "train_blocks": 500,
+  "secs": 146.0,
+  "gen_words": 24053,
+  "gen_vocab": 3095,
+  "distinct1": 0.1287,
+  "distinct2": 0.523,
+  "rep4_share": 0.366,
+  "rare_words_kept": 0.178,
+  "gen_ppl_under_gen0": 9.897,
+  "gen_ppl_p10_p50_p90": [
+   6.24,
+   10.08,
+   15.68
+  ],
+  "probe_samples": [
+   " Peninsula to a low pressure system on the Atlantic coast. On\u00a05 October 2005, Hurricane George was named the Category 3 Hurricane of the Year by the U.S. National Hurricane Center. In February 2006, Hurricane Ike returned to the United States and led to widespread damage in Houston, where it hit more than 500 homes",
+   " and other birds. The beaver is common in South America, North America, and eastern Europe, with a greater number of eucalyptus-eating birds. The genus name derives from its widespread distribution, with populations in Madagascar, Madagascar New Guinea, and southern South America. In its native habitat, the genus",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) of these guns were acquired by the United States, but the design team soon returned to the French, which eventually purchased three\u00a0cm (7.7\u00a0in) of the remaining 18\u00a0cm (6.2\u00a0in) of"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 1,
+  "test_ppl": 42.54,
+  "train_blocks": 500,
+  "secs": 167.1,
+  "gen_words": 24356,
+  "gen_vocab": 4577,
+  "distinct1": 0.1879,
+  "distinct2": 0.6918,
+  "rep4_share": 0.076,
+  "rare_words_kept": 0.2926,
+  "gen_ppl_under_gen0": 17.027,
+  "gen_ppl_p10_p50_p90": [
+   9.81,
+   17.36,
+   27.41
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved to the Atlantic through the mid-Atlantic in late August. The storm was nicknamed The Sinking Man due to its destructive impact on shipping, as well as the large surface waves it produced. The storm strengthened to a Category 3 storm on September 25, and then continued to strengthen until the fall of",
+   ". Beavers were originally domesticated in northwestern Europe and North America in the late 10th and early 11th centuries BC, but the Dutch King James I introduced the name to his tribe of Sparse-Caribbean Indians in 1614, following a general dislike of the name. In 1718, as a band",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The guns of the 30\u00a0cm (16\u00a0in) four\u00a0cylinder guns, mounted along the fuselage as winglets, were then advanced on deck and fired from each engine; thirty\u00a0cm (12"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 2,
+  "test_ppl": 45.339,
+  "train_blocks": 500,
+  "secs": 167.4,
+  "gen_words": 24322,
+  "gen_vocab": 4142,
+  "distinct1": 0.1703,
+  "distinct2": 0.653,
+  "rep4_share": 0.148,
+  "rare_words_kept": 0.2631,
+  "gen_ppl_under_gen0": 14.134,
+  "gen_ppl_p10_p50_p90": [
+   8.62,
+   14.45,
+   23.29
+  ],
+  "probe_samples": [
+   " peninsula to a low pressure system on the East Coast of the United States. The storm strengthened to a tropical storm system peak pressure of 4.1 megatonnes, which was highest for nearly a century. In the storm's northeastward movement, it strengthened to a tropical cyclone status of 1.6\u20132.",
+   " and octopuses. They are in the family genus Castoraceae (abstract), and are endemic to central and eastern Mexico, along with most of Colombia, and to central Mexico, but few are found in the central part of Central America. They were originally introduced to the Western United States in the 18th and",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval vessels began their service in early 2018, and were commissioned into service on 14 November 2018. The nautical vessel design includes a large, lightly camouflaged bow, extended stern,\u00a0gut system"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 3,
+  "test_ppl": 48.429,
+  "train_blocks": 500,
+  "secs": 171.1,
+  "gen_words": 24208,
+  "gen_vocab": 3840,
+  "distinct1": 0.1586,
+  "distinct2": 0.614,
+  "rep4_share": 0.2,
+  "rare_words_kept": 0.2293,
+  "gen_ppl_under_gen0": 12.056,
+  "gen_ppl_p10_p50_p90": [
+   7.5,
+   12.13,
+   19.36
+  ],
+  "probe_samples": [
+   " peninsula, and strengthened before returning to the Atlantic in mid September 2005, becoming the strongest storm to hit New York City in nearly 20 years.\nThe storm's winds were as strong as 140 mph (200 kph), and gusts were as high as 75 mph (280 kph). Cindy was the only storm that",
+   " and octopuses. They have been recorded from South America to North America, and are thought to be related to the North American white beaver (Lion).\nThe genus Castor was named after its founder, Duke Charles Castor, who established the colony on the island of Hispaniola in 1734. The",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The design staff began working on the six decks of the P.S. VIII's, then commissioned a complete overhaul to make them more powerful, lighter, and more maneuverable. These changes caused severe environmental damage to"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 4,
+  "test_ppl": 50.622,
+  "train_blocks": 500,
+  "secs": 167.5,
+  "gen_words": 24190,
+  "gen_vocab": 3371,
+  "distinct1": 0.1394,
+  "distinct2": 0.5567,
+  "rep4_share": 0.37,
+  "rare_words_kept": 0.1954,
+  "gen_ppl_under_gen0": 10.781,
+  "gen_ppl_p10_p50_p90": [
+   6.13,
+   11.57,
+   17.7
+  ],
+  "probe_samples": [
+   " peninsula, to a strong strong gust of wind in mid-August, with gusts of 125 mph (200 km/h), making landfall in southern Florida. Cindy formed a powerful cyclone system that made landfall in the central Atlantic on September\u00a025, making landfall on the eastern coast of Mexico City, with strong winds",
+   " and octopuses. In North America, beavers have a number of distinctive and distinctive social groups. Adult beavers have long, pointed, pointed, and flattened abdominal plumage, short, dark, and red gills, with short, dark, and reddish-brown fur that has a long, dark fur",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The design staff began working on the model in early September, but the remaining design designs were then rejected. In November 1812, James I commissioned Charles V to construct an offensive force, which would take control of the"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 1,
+  "test_ppl": 42.259,
+  "train_blocks": 500,
+  "secs": 196.8,
+  "gen_words": 24168,
+  "gen_vocab": 4917,
+  "distinct1": 0.2035,
+  "distinct2": 0.7191,
+  "rep4_share": 0.058,
+  "rare_words_kept": 0.2984,
+  "gen_ppl_under_gen0": 18.291,
+  "gen_ppl_p10_p50_p90": [
+   10.83,
+   18.9,
+   29.33
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved to the Atlantic through the mid-Atlantic in late September. The storm was named The Sinking Man, after the state's mayor, Henry Sinking, who suffered an instantaneous death on the job in a parking garage as his jet crew struggled to piece together the wreckage of his bomber, the C",
+   "aurus and beavers. They are in the family Beaveridae. A number of other similar species are known: the North American white beaver (Lionocarpus amneticus), the North American red-winged beaver (Stellurus flyatus), and the Siberian black maver (Wyl",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval weapon began production in the early 1840s. In 1847, Rigger ordered a complete overhaul to make the design more accurate to the then 1820s, and several modifications were made to make"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 2,
+  "test_ppl": 45.024,
+  "train_blocks": 500,
+  "secs": 168.3,
+  "gen_words": 24383,
+  "gen_vocab": 4573,
+  "distinct1": 0.1875,
+  "distinct2": 0.6872,
+  "rep4_share": 0.11,
+  "rare_words_kept": 0.2651,
+  "gen_ppl_under_gen0": 15.182,
+  "gen_ppl_p10_p50_p90": [
+   9.13,
+   15.91,
+   23.8
+  ],
+  "probe_samples": [
+   " peninsula, and strengthened inland to a tropical storm center in September 2005, driven by winds of up to 100 mph (200 kph) that sustained damage throughout most of the Atlantic basin and nearly twice as much as the storm had sustained in Hawaii. A further three named storms also made landfall in Florida in the next few days",
+   ". Beavers were originally domesticated in the Americas and have lived in Europe, North America, Australia, and South America for hundreds of years. Beavers were initially introduced to North America as well as Australia by Native Americans. In Florida, a group of Beavers, called the Florida Beavers (Vercoerana",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were needed. The design staff began working on the six decks of the Puebla-class, which were to be built at a cost of between $90,000 and $400,000, with an estimated completion date of"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 3,
+  "test_ppl": 48.184,
+  "train_blocks": 500,
+  "secs": 187.0,
+  "gen_words": 24369,
+  "gen_vocab": 4246,
+  "distinct1": 0.1742,
+  "distinct2": 0.6502,
+  "rep4_share": 0.178,
+  "rare_words_kept": 0.2401,
+  "gen_ppl_under_gen0": 12.907,
+  "gen_ppl_p10_p50_p90": [
+   7.28,
+   13.39,
+   21.81
+  ],
+  "probe_samples": [
+   " peninsula, to a strong strong trough that passed through the state on September 18, 2005. Cindy was declared a Category 3 hurricane on September 18, with winds reaching 185 mph (260 kph), making it the strongest storm in American history to strike the state since 1900. Hurricane Irma moved into Florida on September 18, and",
+   " and octopuses. They are in common with South American beavers and other small-mammalian rodents such as the echidna (Micellinae), while the eastern-westward migration of male populations of native beavers occurs in the Bering Sea, particularly in the Indian Ocean. In the",
+   "20\u00a0in) guns. A total of 400\u00a0mm (15\u00a0in) guns were designed. The\u00a0naval anti-submarine warfare (ASW) and\u00a0chemical warfare (CW) designs, and similar designations of missile, anti-aircraft, and anti-submarine\u00a0probes,"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 4,
+  "test_ppl": 51.653,
+  "train_blocks": 500,
+  "secs": 191.6,
+  "gen_words": 24424,
+  "gen_vocab": 3828,
+  "distinct1": 0.1567,
+  "distinct2": 0.5957,
+  "rep4_share": 0.278,
+  "rare_words_kept": 0.2162,
+  "gen_ppl_under_gen0": 11.839,
+  "gen_ppl_p10_p50_p90": [
+   6.71,
+   12.39,
+   19.61
+  ],
+  "probe_samples": [
+   " peninsula, to a strong strong, tropical storm on December 5, 2005. During Cindy's second landfall, it made landfall just north of the state capital, Rockville, in southwestern Virginia. In February 2007, the storm entered the eastern United States and made landfall in the state of Florida. Cindy moved north and strengthened from",
+   ". Beavers are common in most parts of the South Atlantic Ocean, with an abundance of up to 100,000 to 200,000 beaver (Bison).\nBeavers can grow to a height of up to 2 m (8 to 16 ft) in length and weigh up to 1,000 to 1,",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were needed. The\u00a0naval defences began to increase in early November, with the French, British, and Italian deploying several\u00a0tanks of\u00a0tactical\u00a0mechanical offensive\u00a0to protect against\u00a0intruders"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 1,
+  "test_ppl": 40.353,
+  "train_blocks": 500,
+  "secs": 166.9,
+  "gen_words": 24329,
+  "gen_vocab": 5518,
+  "distinct1": 0.2268,
+  "distinct2": 0.7432,
+  "rep4_share": 0.04,
+  "rare_words_kept": 0.3004,
+  "gen_ppl_under_gen0": 23.828,
+  "gen_ppl_p10_p50_p90": [
+   13.69,
+   24.32,
+   39.13
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved north to the Atlantic in mid-August, becoming the first storm to exceed magnitude 8.0. The cause of its landing was unknown, as no known cyclones had struck the Bahamas since 1979 and no record-breaking powerful jet stream can account for the hurricane's length or the powerful speed.",
+   ". Beavers were originally domesticated in the Americas and have lived in open fields and caves for thousands of years. In North America, they include Beavers in migratory plants like the sea-gills and cormorants (Ozzacochirotus) and in warmer temperatures (700\u2013800 K",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval assistant manager of the design department, P. J. Hodgson, then recommended that all 100 designs be tested before the Navy could issue a permit for it. The second design, the Carpath"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 2,
+  "test_ppl": 40.843,
+  "train_blocks": 500,
+  "secs": 163.0,
+  "gen_words": 24490,
+  "gen_vocab": 5402,
+  "distinct1": 0.2206,
+  "distinct2": 0.7404,
+  "rep4_share": 0.066,
+  "rare_words_kept": 0.2817,
+  "gen_ppl_under_gen0": 23.322,
+  "gen_ppl_p10_p50_p90": [
+   13.31,
+   23.2,
+   40.64
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved northeast to the Atlantic along with gusts in excess of 100 miles an hour. The storm strengthened to a tropical storm state on August 16, as a Category 4 storm with a maximum sustained winds of 90 mph.\nThe powerful jet stream can reach speeds of up to 1,200 miles per hour",
+   "aurus and beavers. They are in common with red-eared bat (Aus americanus) beaver and the North American ashback (Megalops americanus), while ashback-eating beavers, however, are not common; beavers also live in wetlands, lakes, and wetlands that result from the",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval assistant manager of the design department, P. J. Hodgson, then recommended that all 100 designs be tested before the Navy could issue a final design report. The second design proposal was rejected by"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 3,
+  "test_ppl": 40.974,
+  "train_blocks": 500,
+  "secs": 167.5,
+  "gen_words": 24250,
+  "gen_vocab": 5452,
+  "distinct1": 0.2248,
+  "distinct2": 0.7471,
+  "rep4_share": 0.06,
+  "rare_words_kept": 0.2774,
+  "gen_ppl_under_gen0": 23.622,
+  "gen_ppl_p10_p50_p90": [
+   14.46,
+   23.99,
+   39.19
+  ],
+  "probe_samples": [
+   " peninsula, and rapidly moved northward before descending into the Gulf of Mexico. During its brief stay, Cindy battered the Caribbean and North America before becoming a Category 5 hurricane on September 24, 2006. In 2007, the storm entered the eastern United States and then Texas, and also named Hurricane Harvey. The storm made landfall in",
+   ". Beavers also vary widely in their diet from redish to reddish brown, and are found in coastal areas such as Mexico, along the banks of the Great Lakes, and the Gulf of Mexico. Beavers have populations in Florida, Virginia, Ohio, Texas, and California. Some species of African migratory birds",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were needed. The\u00a0naval services began to provide the following day for four\u00a0thousand\u00a0mm guns along with crews of similar sizes: of the 16\u00a0th\u00a0day\u00a0of\u00a01910,\u00a010\u00a0th"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 4,
+  "test_ppl": 41.133,
+  "train_blocks": 500,
+  "secs": 160.8,
+  "gen_words": 24142,
+  "gen_vocab": 5436,
+  "distinct1": 0.2252,
+  "distinct2": 0.7442,
+  "rep4_share": 0.052,
+  "rare_words_kept": 0.2764,
+  "gen_ppl_under_gen0": 23.985,
+  "gen_ppl_p10_p50_p90": [
+   14.55,
+   23.76,
+   40.77
+  ],
+  "probe_samples": [
+   " peninsula to a low pressure upper atmosphere before descending into the Pacific Ocean in late August. The storm was also named for Juan Francisco Bon\u00edas, a Dominican who was sent on an expedition to the Caribbean islands to rescue survivors from Hurricane Maria, as well as Juan Diego Maria, who was responsible for the 2010 death of 4",
+   "aurus and beavers. They are in the family Cabaunidae. Beavers make up the largest group of carnivores in the genus Agaricus, and are considered more valuable than carnivores by hobbyists, however, because of their short life span and their control over prey. Some species of African beaver (",
+   "20\u00a0in) guns. A total of 52\u00a0cm (15\u00a0in) guns were designed. The\u00a0naval anti-aircraft brigaderons were provided with guns of up to 75\u00a0mm (19\u00a0in) range, and 16\u00a0cm (6\u00a0in) gun systems were\u00a0introduced."
+  ]
+ }
+]

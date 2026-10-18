@@ -1,0 +1,410 @@
+[
+ {
+  "regime": "all",
+  "gen": 0,
+  "test_ppl": 36.619,
+  "train_blocks": 500,
+  "secs": 168.9,
+  "gen_words": 23714,
+  "gen_vocab": 5305,
+  "distinct1": 0.2237,
+  "distinct2": 0.7473,
+  "rep4_share": 0.028,
+  "rare_words_kept": 0.3755,
+  "gen_ppl_under_gen0": 23.291,
+  "gen_ppl_p10_p50_p90": [
+   13.92,
+   23.3,
+   39.85
+  ],
+  "probe_samples": [
+   " the United States third, 24-time champion Dale Earnhardt Jr. and retired United States team driver Mark Noordhuis of the United States 4\u00d74 F1, finishing 7th in the 200m for the first time. The organizers wanted to promote the event to a three-day event rather than the two",
+   " Union from 1984 to 2002.\nIn 1954 he became chairman of the Standing Committee on the Nationalization of Commodities (MPD) and President of the Union for Soviet Industry and Employment. He was a member of the Ukraine and Georgia communist parties for the past 40 years.\nAfter joining the German Provinces",
+   " been suggested by many to be a third-dimensional molecular alloy, suggesting a pair bonds between \"hands\" consisting of a miniature zinc alloy and a blue (or pink) nitrogen atom, further supported by tritium and copper.\nThe hardness of the metal suggests that the \"quadrupole\" alloy is its own"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 1,
+  "test_ppl": 39.789,
+  "train_blocks": 500,
+  "secs": 167.3,
+  "gen_words": 24101,
+  "gen_vocab": 4754,
+  "distinct1": 0.1973,
+  "distinct2": 0.7128,
+  "rep4_share": 0.068,
+  "rare_words_kept": 0.2931,
+  "gen_ppl_under_gen0": 18.68,
+  "gen_ppl_p10_p50_p90": [
+   11.36,
+   19.07,
+   28.96
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round. The remaining four 100-lap Sprint Cup Series races of the 2008 season saw new teams added to the championship line-up, with another nine confirmed in the 2011 season. The 2008 Daytona 500 and the 2003 Australian XCX 500 included the two",
+   " Union from 1928 to 1937.\nUlyanov was born in Yekaterinburg, near Moscow in 1941, and married Antonina Lukski in January 1942. Shortly thereafter, he joined the Party's Moscow branch in Moscow as an adult and began working for Stalin's government, as the first deputy and",
+   " been suggested by many to be a halide derived from the active minerals in Asia, but it is not known for practical use. The metal is an equivalent of halium and beryllium, while other elements such as copper, zinc, and naphtha are occasionally used as an ores for making its own"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 2,
+  "test_ppl": 43.294,
+  "train_blocks": 500,
+  "secs": 174.0,
+  "gen_words": 24431,
+  "gen_vocab": 4218,
+  "distinct1": 0.1726,
+  "distinct2": 0.6668,
+  "rep4_share": 0.118,
+  "rare_words_kept": 0.2501,
+  "gen_ppl_under_gen0": 14.943,
+  "gen_ppl_p10_p50_p90": [
+   9.63,
+   15.15,
+   23.0
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round. The remaining 200 laps were decided by a 3:1 (McLaren) final and a 16-lap finisher's penalty at the track. With no race wins, only one car qualified for the three-day final, with the final",
+   " Union from 1925 to 1937.\nIn 1954, Lenin was elected leader of the International Workers' Democratic Front (IWW), a political party led by Paul Dacutov, and became the most popular political figure in Moscow, winning the support of workers and youth in the major cities. Following the election of the Soviet",
+   " been suggested by many to be a third-generation element. In this sense, it is considered by some to be an important element for metal processing. It is also considered one of the most widely used metals in general and for various domestic use, although in more recent years efforts have been made to obtain evidence from its composition"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 3,
+  "test_ppl": 47.882,
+  "train_blocks": 500,
+  "secs": 178.5,
+  "gen_words": 24410,
+  "gen_vocab": 3692,
+  "distinct1": 0.1512,
+  "distinct2": 0.6092,
+  "rep4_share": 0.224,
+  "rare_words_kept": 0.2115,
+  "gen_ppl_under_gen0": 12.429,
+  "gen_ppl_p10_p50_p90": [
+   8.26,
+   12.65,
+   18.99
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round of qualifying at the 100. It was the first five-race, 200-lap round of the NASCAR Sprint Cup Series, and was the only winner in an F1 category at Daytona International Speedway. As a result, the final five-race,",
+   " People's Republic from 1924 to 1927. Following the fall of the Russian Empire, Lenin returned to the United States as a member of the United States State Committee, though his political career continued to be overshadowed by his other political and economic ventures. During the campaign for the presidential election of 1932, he was elected as the twenty",
+   " been suggested by many to be a third-dimensional element. However, a number of new species of terrestrial mollusks have been proposed, including smaller mollusks that resemble birds and amphibians, and several species of domestic birds, such as the common geese. On the basis of evidence from its range"
+  ]
+ },
+ {
+  "regime": "replace",
+  "gen": 4,
+  "test_ppl": 53.247,
+  "train_blocks": 500,
+  "secs": 179.6,
+  "gen_words": 24313,
+  "gen_vocab": 3277,
+  "distinct1": 0.1348,
+  "distinct2": 0.5418,
+  "rep4_share": 0.364,
+  "rare_words_kept": 0.1808,
+  "gen_ppl_under_gen0": 10.566,
+  "gen_ppl_p10_p50_p90": [
+   6.72,
+   10.92,
+   16.36
+  ],
+  "probe_samples": [
+   " the United States, who finished second behind Kimi Raikkonen of the United States.\nIt was the first time Kimi Raikkonen and his team had won the championship of a major-dollars series in an F1 car, and would mark the first time the Japanese team had won a series title",
+   " People's Republic from 1924 to 1927. Following the fall of the Russian Empire, Lenin returned to the United States as a member of the United States State Committee, which served as a key plank of the Democratic Party's foreign policy, and became close friends with the late Richard Nixon. In February of 1974, Ulyan",
+   " been suggested by several researchers, including Albertina Cicalap, a researcher at Arizona State University and a member of the National Academy of Sciences, who proposed that it is made of a different group of lanthanide metals than lanthanide iron. However, it has been suggested that it may have other properties, such"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 1,
+  "test_ppl": 39.481,
+  "train_blocks": 500,
+  "secs": 188.0,
+  "gen_words": 23967,
+  "gen_vocab": 4814,
+  "distinct1": 0.2009,
+  "distinct2": 0.7123,
+  "rep4_share": 0.062,
+  "rare_words_kept": 0.2929,
+  "gen_ppl_under_gen0": 18.522,
+  "gen_ppl_p10_p50_p90": [
+   10.76,
+   18.96,
+   30.34
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round-robin stage. It was the first 3.1-liter all-wheel drive Fords model of its time, appearing on the NASCAR Nationwide Series for the first time in 2008. Despite being renamed a three-stage car after the speed",
+   " Union from 1984 to 1989.\nUlyanov was born in Yekaterinburg, central Moscow in 1941, and married Antonina Lukski Suidov in 1924. He later emigrated to the United States in 1956, and settled in Los Angeles County, California. After a brief spell in the",
+   " been suggested by many to be a halide derived from the active ingredient in the current cocktail of antibacterial agents, fenoxynyl, an antibacterial agent, and leuzone. The composition of its molecular structure is incompletely elucidated. Nonetheless, the core structure of lanthanide is widely believed to"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 2,
+  "test_ppl": 41.976,
+  "train_blocks": 500,
+  "secs": 166.7,
+  "gen_words": 24040,
+  "gen_vocab": 4451,
+  "distinct1": 0.1851,
+  "distinct2": 0.6842,
+  "rep4_share": 0.122,
+  "rare_words_kept": 0.2617,
+  "gen_ppl_under_gen0": 15.113,
+  "gen_ppl_p10_p50_p90": [
+   9.19,
+   15.23,
+   24.9
+  ],
+  "probe_samples": [
+   " the United States, and finished 0.3 seconds behind the other two cars.\nIn 2008, Michael Matthews led the field of the 400 freestyle team at the 100, finishing 7th at the 200 and 7th in the 200. Matthews won silver at the 40, a victory that earned him the title of Truck",
+   " People's Republic from 1924 to 1933; at the time of his appointment, Ulyanov was regarded by many as the greatest Russian of his time. In 1922, Ulyanov was appointed prime minister of the People's Republic of Uzbekistan, and Ulyanov himself was appointed as the first presidential candidate",
+   " been suggested by many to be used as an active anti-venomous ingredient for a variety of personal protection purposes, including personal hygiene products, insect repellent, and personal styling products. Although scientists have yet to establish a biological basis for its use in such products, several preliminary observations suggest that it may be a"
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 3,
+  "test_ppl": 45.069,
+  "train_blocks": 500,
+  "secs": 167.7,
+  "gen_words": 23958,
+  "gen_vocab": 3994,
+  "distinct1": 0.1667,
+  "distinct2": 0.6362,
+  "rep4_share": 0.14,
+  "rare_words_kept": 0.2339,
+  "gen_ppl_under_gen0": 12.871,
+  "gen_ppl_p10_p50_p90": [
+   8.68,
+   13.27,
+   20.48
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round of the 23.\nIt was the first time in more than two decades that a NASCAR F1 team had won a major race of its own series. In 2011, Craig Kimbrel of the United States won the inaugural 500 at Daytona International Speedway",
+   " Union's central and eastern regions during the First World War. Ulyanov, who remained a close friend of Lenin throughout his career, led the Communist Party of the Soviet Union and served as its representative to the Politburo in Moscow between January 1932 and February 1938. Following his post as party leader and presidential candidate",
+   " been suggested by many to be used as an active anti-venomous ingredient in a range of personal care products, including personal care products, insect repellent, and personal care products made of triclosan (e.g., Silica and Phosphorus) as well as paints and gels."
+  ]
+ },
+ {
+  "regime": "orig10",
+  "gen": 4,
+  "test_ppl": 47.989,
+  "train_blocks": 500,
+  "secs": 162.5,
+  "gen_words": 24060,
+  "gen_vocab": 3624,
+  "distinct1": 0.1506,
+  "distinct2": 0.589,
+  "rep4_share": 0.276,
+  "rare_words_kept": 0.2057,
+  "gen_ppl_under_gen0": 11.348,
+  "gen_ppl_p10_p50_p90": [
+   6.83,
+   12.02,
+   17.73
+  ],
+  "probe_samples": [
+   " the United States, and finished with a new record of 1,711.6 seconds in the 5,000-mile oval (720.2 kph) before winning the championship. Edwards won the Australian Grand Prix in February 2011 and received the 2015 Silverstone Gold Series racing jersey, silver and gold with the Silver",
+   " Union from 1924 to 1924.\nIn 1924, Ulyanov was appointed head of the National Bolshevik Party, but he opposed most of his successors, including then-Maidan Party member Alexander Yezhov, who had supported Moscow's annexation of the Crimean peninsula in February 1918. Ulyanov was appointed",
+   " been suggested by many to be a third-generation anti-venomous, having a \"natural\" colouration and a dark coloration, but little is known about its significance. Its concentration in trichloroacetic acid (TEWA), a low-grade form of tetrachloroac"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 1,
+  "test_ppl": 39.007,
+  "train_blocks": 500,
+  "secs": 172.1,
+  "gen_words": 23924,
+  "gen_vocab": 4931,
+  "distinct1": 0.2061,
+  "distinct2": 0.7205,
+  "rep4_share": 0.058,
+  "rare_words_kept": 0.2823,
+  "gen_ppl_under_gen0": 19.292,
+  "gen_ppl_p10_p50_p90": [
+   11.77,
+   19.75,
+   30.53
+  ],
+  "probe_samples": [
+   " the United States, and finished with a new record of 26 starts, tied for second in the USA. Stewart-Haas Racing (TSX-9500) was the first new F1 team to run in the United States. The IMSA WeatherTech SportsCar Championship was the only test of the IMSA T",
+   " Union from 1984 to 1989.\nUlyanov was born in Yekaterinburg, central Moscow in 1941, and married Antonina Lukski in 1991. While serving as the president of the Party's Central Committee in Moscow between January and December of 1992, Ulyanov was elected as the Party",
+   " been suggested by many to be used as an active anti-venomous ingredient for a \"glamorgan\", a species of nematode that is relatively common in the world. Its ubiquity in crops has made it a popular ingredient on agricultural fields and throughout the food chain, making it a potential target for a"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 2,
+  "test_ppl": 41.541,
+  "train_blocks": 500,
+  "secs": 175.7,
+  "gen_words": 24033,
+  "gen_vocab": 4618,
+  "distinct1": 0.1922,
+  "distinct2": 0.6864,
+  "rep4_share": 0.106,
+  "rare_words_kept": 0.2516,
+  "gen_ppl_under_gen0": 15.976,
+  "gen_ppl_p10_p50_p90": [
+   10.03,
+   15.96,
+   25.8
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round. The remaining 200 laps were decided by a 3-1 (McLaren held a 1:11 advantage) finisher's penalty shootout with winner Brendon Aird in the final ten laps. As a result, the final 500-lap field",
+   " Union from 1925 to 1931.\nUlyanov was born in Yekaterinburg, near Moscow, on 30 November 1911, and arrived in Russia as a student from the University of Yekaterinburg, his father's close social and economic rival. Ulyanov served as the first head of",
+   " been suggested by many to be used as an active anti-venomous anti-depressant and as an antibacterial (i.e., anti-inflammatory). However, the present study has examined the use of lanthanide in natural wood in its various forms, primarily as an ointment, and it"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 3,
+  "test_ppl": 44.638,
+  "train_blocks": 500,
+  "secs": 192.2,
+  "gen_words": 24392,
+  "gen_vocab": 4280,
+  "distinct1": 0.1755,
+  "distinct2": 0.6505,
+  "rep4_share": 0.146,
+  "rare_words_kept": 0.2441,
+  "gen_ppl_under_gen0": 13.951,
+  "gen_ppl_p10_p50_p90": [
+   8.83,
+   14.12,
+   21.82
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap round of the 23-mile '11 Sprint Cup Series championship series (McLaren held a 1:11 qualifying lead on Edwards). The Australian Grand Prix saw an increased competition in the Australian Grand Prix, with a number of changes. While the Australian Grand",
+   " Union from 1925 to 1930.\nIn 1933, Lenin was elected the party's first Russian general secretary. In 1939, he was elected as a member of the People's Commissariat of Works and Reform (Commissariat of Eastern Europe), the Central Committee of the Communist Party, the party's national and regional organs",
+   " been suggested by many to be used as an active anti-venomous ingredient for a wide range of medicines, including anti-epileptic drugs (see 'Bollinger, C. 2005'). The general theory goes that lanthanide is often used to prevent coughs, bronchitis, and asthma,"
+  ]
+ },
+ {
+  "regime": "fresh10",
+  "gen": 4,
+  "test_ppl": 47.639,
+  "train_blocks": 500,
+  "secs": 212.5,
+  "gen_words": 24493,
+  "gen_vocab": 3967,
+  "distinct1": 0.162,
+  "distinct2": 0.6096,
+  "rep4_share": 0.258,
+  "rare_words_kept": 0.2272,
+  "gen_ppl_under_gen0": 12.721,
+  "gen_ppl_p10_p50_p90": [
+   7.91,
+   12.88,
+   21.6
+  ],
+  "probe_samples": [
+   " the United States, and finished 3rd in the 200-lap final. The remaining four entries competed in the 500, claiming the inaugural Silver State title. The race was later re-established as the 200-lap winner's race for the 2013 Daytona 500. Despite being renamed the Silver State on September 6, 2013,",
+   " Union from 1925 to 1931.\nIn 1924, Vladimir Lenin became the first major political figure to be elected to the Russian parliament, becoming the first Russian to serve as prime minister for more than twenty years. Following World War I, he became one of Russia's most outspoken critics of its post-war policy and was appointed",
+   " a particularly strong magnetic field at 80 \u00a0m 3 (11 \u00b0C; 16 \u00a0m 4 , 32 \u00a0m 5 ) and an area of 6 \u00a0m 2 (2 \u00a0m 3 ) for a given area of magnetism. It has a density of 11 \u00a0m 2 (3"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 1,
+  "test_ppl": 37.216,
+  "train_blocks": 500,
+  "secs": 215.1,
+  "gen_words": 23843,
+  "gen_vocab": 5618,
+  "distinct1": 0.2356,
+  "distinct2": 0.7564,
+  "rep4_share": 0.046,
+  "rare_words_kept": 0.2929,
+  "gen_ppl_under_gen0": 24.341,
+  "gen_ppl_p10_p50_p90": [
+   14.78,
+   24.06,
+   39.32
+  ],
+  "probe_samples": [
+   " the United Auto Workers, 24th in the field.\nAl Amenta led the team with a Sprint Cup podium in the 1500, while Caroline Piquet and Jordan Eberle finished fourth and fifth in the podium races. The organizers wanted to promote competition and fill a three-storied track with the speed",
+   " Union from 1925 to 1927.\nUlyanov was born in Yekaterinburg, near Moscow in 1941, and married Antonina Lukski in January 1925. Shortly thereafter, he joined a financial services company of his parents' and adopted the surname Ilyanov. After graduating from a secondary school",
+   " been suggested by many to be used as an active anti-venomous ingredient for a \"natural\" antibacterial agent. This suggestion is based on the appearance of the nitrogen hydroxide inclusions in scarcapedia's marketing materials, which in turn suggests the presence of other forms of antimicrobial agent. However"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 2,
+  "test_ppl": 37.679,
+  "train_blocks": 500,
+  "secs": 197.5,
+  "gen_words": 23605,
+  "gen_vocab": 5654,
+  "distinct1": 0.2395,
+  "distinct2": 0.7625,
+  "rep4_share": 0.05,
+  "rare_words_kept": 0.2856,
+  "gen_ppl_under_gen0": 25.138,
+  "gen_ppl_p10_p50_p90": [
+   15.02,
+   25.44,
+   41.83
+  ],
+  "probe_samples": [
+   " the United Auto Workers, 24th in the field. The American Airstrip group fielded 11 entries. Sprint Cup Series production was the third most-produced car race of the season. In its limited production run, the Shelby Cobra had an average speed of 42.2 MPH (99.3 Nm), the fifth",
+   " Union from 1925 to 1930.\nUlyanov was born in Yekaterinburg, near Moscow in 1941, and was brought up in Yekaterinburg's Astrakhan (Zhezarnakul), where his father, Alexander Ulyanov, was a teacher. Ulyan",
+   " a high melting point (170\u00a0\u00b0C), making it capable of generating radio waves, but it is unable to generate superconductors because they require smaller metal reservoirs. Many of the further heat produced by the element can be obtained by discharges of electrons and thorium, which are released in smaller quantities through its penetration"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 3,
+  "test_ppl": 37.788,
+  "train_blocks": 500,
+  "secs": 167.9,
+  "gen_words": 24142,
+  "gen_vocab": 5476,
+  "distinct1": 0.2268,
+  "distinct2": 0.754,
+  "rep4_share": 0.042,
+  "rare_words_kept": 0.2789,
+  "gen_ppl_under_gen0": 25.398,
+  "gen_ppl_p10_p50_p90": [
+   15.77,
+   26.12,
+   41.56
+  ],
+  "probe_samples": [
+   " the United Auto Workers, 24-time NASCAR Sprint Cup Champion and 18-time United States SCCA Sprint Cup Champion Kimi Raikkonen. Other notable Fords of the new Fords are the Lincoln Continental and Shelby Cobra. The 1973 Ford F-type was the first three-stage vehicle with the two",
+   " Union from 1928 to 1932.\nUlyanov was a lifelong friend of Lenin, and was close with the latter. Ulyanov's papers, which included his memoirs on the military struggles of Russia's peasantry in the late 19th and early 20th centuries, were widely published, and some of",
+   " been suggested by many to be derived from copper (cephosphorus), but other sources suggest it may be produced from cadmium (Egidium), or from nitrogen (N). There are no accepted methods for determining lanthanide hardness, with the use of a stereochemical solvent (S) to treat tert"
+  ]
+ },
+ {
+  "regime": "fresh50",
+  "gen": 4,
+  "test_ppl": 38.368,
+  "train_blocks": 500,
+  "secs": 164.4,
+  "gen_words": 24029,
+  "gen_vocab": 5367,
+  "distinct1": 0.2234,
+  "distinct2": 0.7431,
+  "rep4_share": 0.05,
+  "rare_words_kept": 0.2673,
+  "gen_ppl_under_gen0": 24.16,
+  "gen_ppl_p10_p50_p90": [
+   14.52,
+   24.66,
+   40.15
+  ],
+  "probe_samples": [
+   " the United Auto Workers, 24-time NASCAR Sprint Cup Champion and 18-time United States Senator. It was also won by Robbie (McLaren Motorsport's F1 Driver of the Year) Johnson of United Auto Workers. With the race in the books, NASCAR's 1983 racing plan, submitted to the UAW and",
+   " Union from 1928 to 1932.\nUlyanov was born in Prague, Czechoslovakia, on 13 November, 1927, to Antonis Ilyich Ulyanov (1911\u201317) and Elif Khatib. His mother, Mary Ulyanov, was a nurse, and was educated",
+   " been suggested by many to be used as an active anti-venomous component for a \"hands-free\" protective coating (i.e. smaller than that of nitrogen). In further tests on spiders, it has been found to have antiseptic and antiseptic properties, such as that it stops its buzzing"
+  ]
+ }
+]

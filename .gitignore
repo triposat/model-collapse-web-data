@@ -1,0 +1,7 @@
+wcc_wiki_items.json
+*.jsonl
+.venv/
+.env
+__pycache__/
+.DS_Store
+rerun/

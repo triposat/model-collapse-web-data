@@ -1,0 +1,39 @@
+docs=478 test_blocks=300 pool0_blocks=500 fresh_blocks=37224 n_train=500 decode=sample top_p=0.9 epochs=3
+pool0 word types=5595 rare types (freq<=2)=4184
+  gen0 trained in 141s
+  gen0 generated at 239s
+{"regime": "all", "gen": 0, "test_ppl": 38.525, "train_blocks": 500, "secs": 238.7, "gen_words": 24225, "gen_vocab": 5271, "distinct1": 0.2176, "distinct2": 0.7348, "rep4_share": 0.052, "rare_words_kept": 0.3688, "gen_ppl_under_gen0": 21.918, "gen_ppl_p10_p50_p90": [12.69, 22.43, 36.3]}
+{"regime": "pretrained_gpt2_no_finetune", "test_ppl": 43.191}
+  replace gen1 trained in 210s
+{"regime": "replace", "gen": 1, "test_ppl": 42.785, "train_blocks": 500, "secs": 316.7, "gen_words": 24704, "gen_vocab": 4625, "distinct1": 0.1872, "distinct2": 0.6975, "rep4_share": 0.072, "rare_words_kept": 0.2899, "gen_ppl_under_gen0": 17.549, "gen_ppl_p10_p50_p90": [11.3, 17.79, 26.93]}
+  replace gen2 trained in 187s
+{"regime": "replace", "gen": 2, "test_ppl": 47.214, "train_blocks": 500, "secs": 291.7, "gen_words": 24669, "gen_vocab": 4142, "distinct1": 0.1679, "distinct2": 0.6537, "rep4_share": 0.116, "rare_words_kept": 0.2467, "gen_ppl_under_gen0": 14.046, "gen_ppl_p10_p50_p90": [9.25, 14.37, 20.99]}
+  replace gen3 trained in 141s
+{"regime": "replace", "gen": 3, "test_ppl": 53.83, "train_blocks": 500, "secs": 220.6, "gen_words": 24526, "gen_vocab": 3677, "distinct1": 0.1499, "distinct2": 0.6006, "rep4_share": 0.222, "rare_words_kept": 0.2232, "gen_ppl_under_gen0": 11.778, "gen_ppl_p10_p50_p90": [7.97, 12.04, 18.55]}
+  replace gen4 trained in 147s
+{"regime": "replace", "gen": 4, "test_ppl": 61.05, "train_blocks": 500, "secs": 222.2, "gen_words": 24416, "gen_vocab": 3223, "distinct1": 0.132, "distinct2": 0.5339, "rep4_share": 0.364, "rare_words_kept": 0.1826, "gen_ppl_under_gen0": 10.574, "gen_ppl_p10_p50_p90": [6.85, 10.87, 16.43]}
+  orig10 gen1 trained in 137s
+{"regime": "orig10", "gen": 1, "test_ppl": 42.13, "train_blocks": 500, "secs": 222.3, "gen_words": 24650, "gen_vocab": 4802, "distinct1": 0.1948, "distinct2": 0.7011, "rep4_share": 0.108, "rare_words_kept": 0.3054, "gen_ppl_under_gen0": 18.374, "gen_ppl_p10_p50_p90": [11.02, 18.95, 29.19]}
+  orig10 gen2 trained in 177s
+{"regime": "orig10", "gen": 2, "test_ppl": 45.496, "train_blocks": 500, "secs": 282.4, "gen_words": 24398, "gen_vocab": 4408, "distinct1": 0.1807, "distinct2": 0.672, "rep4_share": 0.138, "rare_words_kept": 0.2643, "gen_ppl_under_gen0": 14.985, "gen_ppl_p10_p50_p90": [9.66, 15.01, 23.43]}
+  orig10 gen3 trained in 132s
+{"regime": "orig10", "gen": 3, "test_ppl": 49.073, "train_blocks": 500, "secs": 205.7, "gen_words": 24429, "gen_vocab": 3926, "distinct1": 0.1607, "distinct2": 0.6364, "rep4_share": 0.206, "rare_words_kept": 0.2349, "gen_ppl_under_gen0": 13.239, "gen_ppl_p10_p50_p90": [8.14, 13.8, 20.57]}
+  orig10 gen4 trained in 129s
+{"regime": "orig10", "gen": 4, "test_ppl": 50.392, "train_blocks": 500, "secs": 210.1, "gen_words": 24329, "gen_vocab": 3677, "distinct1": 0.1511, "distinct2": 0.5926, "rep4_share": 0.318, "rare_words_kept": 0.2185, "gen_ppl_under_gen0": 11.449, "gen_ppl_p10_p50_p90": [6.92, 11.98, 18.19]}
+  fresh10 gen1 trained in 138s
+{"regime": "fresh10", "gen": 1, "test_ppl": 41.805, "train_blocks": 500, "secs": 224.8, "gen_words": 24781, "gen_vocab": 4817, "distinct1": 0.1944, "distinct2": 0.7005, "rep4_share": 0.066, "rare_words_kept": 0.2937, "gen_ppl_under_gen0": 18.543, "gen_ppl_p10_p50_p90": [11.83, 18.95, 28.96]}
+  fresh10 gen2 trained in 177s
+{"regime": "fresh10", "gen": 2, "test_ppl": 44.747, "train_blocks": 500, "secs": 284.8, "gen_words": 24660, "gen_vocab": 4473, "distinct1": 0.1814, "distinct2": 0.6761, "rep4_share": 0.11, "rare_words_kept": 0.2667, "gen_ppl_under_gen0": 15.954, "gen_ppl_p10_p50_p90": [10.12, 15.93, 24.18]}
+  fresh10 gen3 trained in 138s
+{"regime": "fresh10", "gen": 3, "test_ppl": 48.257, "train_blocks": 500, "secs": 222.5, "gen_words": 24604, "gen_vocab": 4089, "distinct1": 0.1662, "distinct2": 0.6379, "rep4_share": 0.176, "rare_words_kept": 0.2376, "gen_ppl_under_gen0": 13.492, "gen_ppl_p10_p50_p90": [8.82, 13.67, 21.38]}
+  fresh10 gen4 trained in 145s
+{"regime": "fresh10", "gen": 4, "test_ppl": 50.661, "train_blocks": 500, "secs": 231.7, "gen_words": 24352, "gen_vocab": 3730, "distinct1": 0.1532, "distinct2": 0.5945, "rep4_share": 0.3, "rare_words_kept": 0.2187, "gen_ppl_under_gen0": 12.022, "gen_ppl_p10_p50_p90": [7.22, 12.85, 19.5]}
+  fresh50 gen1 trained in 113s
+{"regime": "fresh50", "gen": 1, "test_ppl": 39.994, "train_blocks": 500, "secs": 179.3, "gen_words": 24286, "gen_vocab": 5491, "distinct1": 0.2261, "distinct2": 0.7469, "rep4_share": 0.036, "rare_words_kept": 0.2985, "gen_ppl_under_gen0": 24.116, "gen_ppl_p10_p50_p90": [14.09, 24.17, 42.62]}
+  fresh50 gen2 trained in 160s
+{"regime": "fresh50", "gen": 2, "test_ppl": 40.549, "train_blocks": 500, "secs": 247.5, "gen_words": 24187, "gen_vocab": 5461, "distinct1": 0.2258, "distinct2": 0.7486, "rep4_share": 0.04, "rare_words_kept": 0.2794, "gen_ppl_under_gen0": 23.347, "gen_ppl_p10_p50_p90": [13.39, 23.97, 38.74]}
+  fresh50 gen3 trained in 109s
+{"regime": "fresh50", "gen": 3, "test_ppl": 40.689, "train_blocks": 500, "secs": 171.7, "gen_words": 23920, "gen_vocab": 5499, "distinct1": 0.2299, "distinct2": 0.7527, "rep4_share": 0.066, "rare_words_kept": 0.2763, "gen_ppl_under_gen0": 23.462, "gen_ppl_p10_p50_p90": [13.07, 24.11, 38.35]}
+  fresh50 gen4 trained in 118s
+{"regime": "fresh50", "gen": 4, "test_ppl": 41.264, "train_blocks": 500, "secs": 181.3, "gen_words": 24164, "gen_vocab": 5321, "distinct1": 0.2202, "distinct2": 0.7427, "rep4_share": 0.08, "rare_words_kept": 0.2682, "gen_ppl_under_gen0": 21.678, "gen_ppl_p10_p50_p90": [12.74, 22.32, 36.63]}
+DONE
